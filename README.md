@@ -27,7 +27,7 @@ A simple command-line quiz app that lets you practice past Aptech exam papers by
 ### 1. Clone this repo
 
 ```bash
-git clone 
+git clone https://github.com/Mahmudumar/Aptech-exam-practice.git
 cd exam-runner
 ````
 
