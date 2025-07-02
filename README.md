@@ -3,6 +3,8 @@
 
 A simple command-line quiz app that lets you practice past Aptech exam papers by loading `.htm` files. It extracts the questions, options, and correct answers automatically and lets you take the test with real-time scoring.
 
+![Screenshot (34)](https://github.com/user-attachments/assets/7f674f1c-de78-449f-976b-b1c830891e06)
+
 ---
 
 ## ✨ Features
@@ -28,7 +30,7 @@ A simple command-line quiz app that lets you practice past Aptech exam papers by
 
 ```bash
 git clone https://github.com/Mahmudumar/Aptech-exam-practice.git
-cd exam-runner
+
 ````
 
 ### 2. Start the exam system
@@ -58,7 +60,7 @@ If `start.sh` doesn’t work, you can install manually:
 
 ```bash
 pip install -r requirements.txt
-python3 exam_runner.py
+python3 exam_test.py
 ```
 
 ---
